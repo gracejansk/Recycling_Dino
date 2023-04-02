@@ -11,7 +11,7 @@ Make a game inspired by the word _"Cycle"_
 
 Author Information
 ------------------
-- **Developer : Eunkyung Kim** | Dayee Lee
+- **Developer : Grace (Eunkyung) Kim** | Dayee Lee
 - **E-mail :** gracejansk@gmail.com | dy0318m@gmail.com
 
 
